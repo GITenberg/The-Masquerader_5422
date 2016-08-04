@@ -1,0 +1,30 @@
+_repo: The-Masquerader_5422
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thurston, Katherine Cecil
+    birthdate: 1875
+    deathdate: 1911
+    gutenberg_agent_id: '1793'
+    url: http://www.gutenberg.org/2009/agents/1793
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Thurston
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Impersonation -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Success -- Fiction'
+- !lcsh 'Cousins -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Legislators -- Fiction'
+- GITenberg
+title: The Masquerader
+url: http://www.gutenberg.org/ebooks/5422
